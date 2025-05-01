@@ -1,0 +1,2 @@
+Cantidad: 100.0, Moneda: ARS, Resultado: El resultado es: 115000.0 ARS
+Cantidad: 500.0, Moneda: EUR, Resultado: El resultado es: 465.0 EUR
